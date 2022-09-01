@@ -1,0 +1,29 @@
+body{
+    padding-top: 70px;
+}
+header{
+    margin:auto;
+    padding:auto;
+    position: relative;
+}
+.c2a{
+    margin:3px;
+}
+.jumbotron{
+    position:absolute;
+    margin-top: 88px;
+    height:90vh;
+}
+.card-body{
+    padding-top: 90px;
+    padding-bottom: 30px;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardS{
+    margin-top: 600px;
+}
+.smCard{
+    margin: 5px 5px;
+}
