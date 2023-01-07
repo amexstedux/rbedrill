@@ -68,3 +68,16 @@ li{
 .smCard{
     margin: 5px 5px;
 }
+footer{
+    margin-top: 125px;
+    padding: 10px 10px 10px 10px;
+    background-color: #212529;
+    color: white;
+}
+hr{
+   width: 75%;
+   margin: 125px 12.5% 0 12.5%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #212529;
+}
