@@ -1,6 +1,7 @@
 header{
     background-color:#212529 ;
     position: relative;
+    border-bottom:5px solid #193F2B;
 }
 #RBELOGO{
     max-width: 125px;
@@ -60,6 +61,10 @@ li{
     max-width: 360px;
     height: 260px;
 }
+hr{
+    width: 75%;
+    margin: 5% 12.5% 5% 12.5%;
+}
 .cardS{
     padding: 30px;
     margin-top: 650px;
@@ -73,11 +78,14 @@ footer{
     padding: 10px 10px 10px 10px;
     background-color: #212529;
     color: white;
+    border-top: 5px solid #193F2B !important;
+    font-size: 1rem;
+
+    
 }
-hr{
+#pageBreak{
    width: 75%;
    margin: 125px 12.5% 0 12.5%;
     border-width: 1px;
     border-style: solid;
-    border-color: #212529;
 }
