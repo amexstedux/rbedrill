@@ -1,10 +1,38 @@
-body{
-    padding-top: 70px;
-}
 header{
-    margin:auto;
-    padding:auto;
+    background-color:#212529 ;
     position: relative;
+}
+#RBELOGO{
+    max-width: 125px;
+    min-width: 72px;
+}
+#headerBox{
+   margin: auto;
+}
+#logoBox{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: start;
+}
+#buttonBox{
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: end;
+}
+#navBox{
+    display: flex;
+    justify-content: end;
+    margin: auto;
+}
+ul{
+    display: flex;
+    justify-content: end;
+}
+li{
+    display: flex;
+    justify-content: end;
 }
 .c2a{
     margin:3px;
