@@ -40,8 +40,12 @@ li{
 .jumbotron{
     position:absolute;
     margin-top: 88px;
-    height:90vh;
     filter: drop-shadow(0 0 0.75rem gray);
+}
+#centerCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #splashText{
     height: 260px;
