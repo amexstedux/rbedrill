@@ -79,7 +79,7 @@ footer{
     background-color: #212529;
     color: white;
     border-top: 5px solid #193F2B !important;
-    font-size: 1rem;
+    font-size: .9rem;
 }
 #pageBreak{
    width: 75%;
@@ -98,4 +98,11 @@ footer{
 }
 .paraGraph{
     margin: 50px 20px 50px 50px;
+}
+.serviceSec{
+    Margin: 50px 20px 50px 20px;
+    line-height: 2;
+}
+.servGraf{
+    margin: 0 10%;
 }
