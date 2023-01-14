@@ -75,17 +75,27 @@ hr{
 }
 footer{
     margin-top: 125px;
-    padding: 10px 10px 10px 10px;
+    padding: 30px 10px 10px 10px;
     background-color: #212529;
     color: white;
     border-top: 5px solid #193F2B !important;
     font-size: 1rem;
-
-    
 }
 #pageBreak{
    width: 75%;
    margin: 125px 12.5% 0 12.5%;
     border-width: 1px;
     border-style: solid;
+}
+.centerIMG{
+    max-width: 373px;
+}
+.aboutMe{
+    margin: 50px 1px 50px 1px;
+}
+.picTure{
+    margin: 50px 1px 50px 1px;
+}
+.paraGraph{
+    margin: 50px 20px 50px 50px;
 }
