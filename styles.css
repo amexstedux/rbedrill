@@ -91,13 +91,17 @@ footer{
     max-width: 373px;
 }
 .aboutMe{
-    margin: 50px 1px 50px 1px;
+    margin: 7% 12.5%;
+
+}
+.Equipment{
+    margin: 7% 12.5% 7% 12.5%;
 }
 .picTure{
-    margin: 50px 1px 50px 1px;
+    margin: 7% 12.5% 7% 12.5%;
 }
 .paraGraph{
-    margin: 50px 20px 50px 50px;
+    margin: 7% 12.5% 7% 15.5%;
 }
 .serviceSec{
     Margin: 50px 20px 50px 20px;
