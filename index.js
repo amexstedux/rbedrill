@@ -17,12 +17,10 @@
 
 function sendEmail(){
     Email.send({
-        Host : "smtp.gmail.com",
-        Username : "RBEdrilling@gmail.com",
-        Password : "password",
+        SecureToken: "f7f5e413-39d5-4579-ac35-2ae75a916857",
         To : 'RBEdrilling@gmail.com',
         From : document.getElementById("email").value,
-        Subject : "New Contact Form Submission",
+        Subject : "New Contact Form Inquiry",
         Body : "Name: "+ document.getElementById("name").value
             +"<br> Email: " + document.getElementById("email").value
             +"<br> Message: " + document.getElementById("message").value
